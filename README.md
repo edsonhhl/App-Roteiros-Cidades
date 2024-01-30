@@ -9,3 +9,5 @@ App onde o usuário digita a Cidade e os dias que ficara na cidade, e o app atra
 - React Native
 - EXPO
 - CSS
+
+ <img src="https://raw.githubusercontent.com/edsonhhl/App-Roteiros-Cidades/main/assets/projeto.png" alt="Modelo Projeto" />
